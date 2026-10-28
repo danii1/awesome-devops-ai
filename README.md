@@ -471,6 +471,7 @@ AI tools that enhance continuous integration and delivery pipelines.
 - [Codefresh](https://codefresh.io/) - GitOps CI/CD platform built on Argo with AI-assisted pipeline creation and deployment analytics.
 - [Dagger](https://github.com/dagger/dagger) - Programmable CI/CD engine that runs pipelines in containers, enabling AI agents to compose and execute build workflows.
 - [Depot](https://depot.dev/) - Managed CI build infrastructure with up to 40x faster Docker builds through intelligent layer caching and remote execution.
+- [DevIntern](https://devintern.com/) - Self-hosted worker that turns ready Jira, Linear, GitHub Issues and other tracker tickets, plus Sentry error groups, into pull requests using Claude Code, Codex, Cursor or OpenCode.
 - [GitLab Duo](https://about.gitlab.com/gitlab-duo/) - AI across the GitLab DevSecOps platform with code suggestions, root cause analysis, vulnerability resolution, and CI/CD pipeline generation.
 - [Harness AIDA](https://www.harness.io/products/aida) - AI Development Assistant for intelligent pipeline creation, failure analysis, and deployment optimization.
 - [Mergify](https://mergify.com/) - AI-powered merge queue and PR automation with intelligent batch merging and conflict resolution.
